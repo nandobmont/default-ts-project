@@ -1,0 +1,24 @@
+{
+  "name": "default-ts-project",
+  "version": "1.0.0",
+  "description": "Default TypeScript Project",
+  "main": "src/index.ts",
+  "author": "nandobmont",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "4.6.2"
+  },
+  "devDependencies": {
+    "@swc/core": "1.2.153",
+    "@swc/jest": "0.2.20",
+    "@types/cors": "2.8.12",
+    "@types/dotenv": "8.2.0",
+    "@types/jest": "27.4.1",
+    "@types/node": "17.0.21",
+    "@types/typescript": "2.0.0",
+    "dotenv": "16.0.0",
+    "jest": "27.5.1",
+    "nodemon": "2.0.15",
+    "ts-node": "10.8.0"
+  }
+}
